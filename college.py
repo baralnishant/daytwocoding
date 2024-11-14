@@ -3,5 +3,5 @@ def students():
     classTwo = 10
     totalStudents = classOne + classTwo 
     print(totalStudents)
-
-students()
+    
+    students()
